@@ -1,7 +1,3 @@
-Here’s a **professional, developer-style README** written as if your *Habit Tracker with Insights Engine* were a real open-source or portfolio project. It’s structured cleanly for GitHub, emphasizes architecture and design decisions, and reads like something from a serious developer. You can later expand it when you add UI or database layers.
-
----
-
 # 🧠 Habit Tracker with Insights Engine
 
 A cleanly architected **Habit Tracking System** that not only records your daily habits but also provides **data-driven insights** into your consistency, performance, and streaks — powered by an extendable analytics core.
@@ -153,7 +149,3 @@ var total = analytics.GetTotalCompletions(1);
 
 **Developer:** Bashar Soufan
 Passionate about clean architecture, data-driven design, and building intelligent systems that go beyond CRUD.
-
----
-
-Would you like me to tailor the README for **GitHub formatting** (with badges, code snippets, and links), or keep it as a **portfolio-style document** (polished and narrative-focused for resumes or presentations)?
